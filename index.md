@@ -1,10 +1,26 @@
 ---
+---
 layout: default
-title: "الرئيسية"
+title: "Accueil"
 ---
 
-# 🗝️ مشروع مول الدار (Moul Dar)
+# 🗝️ Projet Moul Dar (مشروع مول الدار)
 
-مرحباً بك في مدونة الوعي الجزائري. نحن نصنع النخبة الجديدة.
+Bienvenue sur le laboratoire de la nouvelle conscience algérienne. Fini le statut de locataire, reprenons les clés de notre maison.
 
-[اقرأ البيان التأسيسي: شاهد الزور](./2026-03-12-manifeste-moul-dar.html)
+---
+
+## 📝 Nos derniers articles :
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong>
+      <br>
+      <small>Publié le : {{ post.date | date: "%d/%m/%Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
+
+---
+[En savoir plus sur nous...](/about.html)
