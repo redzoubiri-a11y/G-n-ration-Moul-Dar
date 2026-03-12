@@ -1,21 +1,22 @@
 ---
+---
 layout: page
-title: "من نحن؟ (À Propos)"
+title: "Qui sommes-nous ?"
 permalink: /about/
 ---
 
-### 🗝️ مشروع "مول الدار" (Moul Dar)
+# 🗝️ Le Mouvement "Moul Dar"
 
-نحن لسنا حزباً سياسياً، ولسنا معارضة تقليدية، ولسنا دعاة فوضى.
-نحن **"تيار وعي"** يمثل الطبقة المتوسطة الجزائرية الصامتة. الجيل الذي تعب من الانتظار، وتعب من التبريرات، وقرر أن ينظر في المرآة.
+Nous ne sommes ni un parti politique, ni une opposition traditionnelle, ni des marchands d'illusions. 
 
-#### 🎯 مهمتنا:
-تحويل المواطن الجزائري من حالة **"الضيف/المكتري"** (الذي يشتكي من رداءة المنزل وينتظر من يصلحه)، إلى حالة **"مول الدار"** (الذي يشمر على ساعديه، ينظف بيته، ويحميه بقوة القانون والوعي).
+Nous sommes un **courant de conscience** issu de la classe moyenne algérienne. La génération qui a décidé d'arrêter d'attendre un sauveur et de se regarder en face.
 
-#### 🧠 مبادئنا:
-1. **الواقعية:** لا نبيع الأوهام المثالية. ننتقد أنفسنا قبل أن ننتقد السلطة.
-2. **المسؤولية:** الحياد في وقت الفساد هو خيانة. السكوت عن الحق هو مشاركة في الجريمة.
-3. **التنظيم:** الفوضى تخدم الفساد. التغيير الجذري يحتاج إلى هندسة اجتماعية، وعي اقتصادي، وبناء بديل حقيقي.
+### 🎯 Notre objectif
+Passer de la mentalité du **"Locataire"** (qui subit, se plaint et attend que l'État répare) à la mentalité du **"Propriétaire / Moul Dar"** (qui protège, agit et exige des comptes avec intelligence).
 
-إذا كنت تؤمن بأن التغيير يبدأ بتغيير "البرنامج العقلي" (Logiciel) للمجتمع.. فأنت في المكان الصحيح. 
-**أنت "مول الدار".. تفضل، الدار دارك.**
+### 🧠 Nos armes
+* **Le réalisme :** Nous disons les vérités qui blessent notre ego pour mieux nous soigner.
+* **L'organisation :** La colère sans plan est inutile. Nous croyons en l'action locale et structurée.
+* **La responsabilité :** Le silence face à la médiocrité n'est pas de la neutralité, c'est de la complicité.
+
+**Rejoignez-nous. La maison est grande, et elle a besoin de tous ses propriétaires.**
