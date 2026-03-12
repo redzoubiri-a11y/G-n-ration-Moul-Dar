@@ -1,0 +1,14 @@
+# Paramètres principaux du site
+title: "Moul Dar | مول الدار"
+description: >-
+  مدونة الوعي الجزائري. مشروع لتحويل المواطن من حالة الانتظار السلبي إلى حالة المسؤولية الفعالة. نحن نصنع النخبة الجديدة.
+
+# Auteur
+author: "Moul Dar"
+
+# Design / Thème visuel (GitHub Pages s'en occupe automatiquement)
+theme: jekyll-theme-cayman
+
+# Paramètres techniques (Ne pas modifier)
+url: ""
+baseurl: ""
